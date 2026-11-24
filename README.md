@@ -2,7 +2,7 @@
 
 Mobilna aplikacija za vajo 5 pri predmetu Računalniški produkti in storitve (4.TR). Vneseš kraj odhoda in smučarski cilj, nato na zaslonu z rezultati odpreš načrt poti, vreme ali predloge nastanitev.
 
-**Člana skupine** — [ime in priimek prvega člana], [ime in priimek drugega člana]
+**Člana skupine** — Lan Gosar, Mark Repnik
 
 ## Zagon v aplikaciji Expo Go
 
