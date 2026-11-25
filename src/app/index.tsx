@@ -38,8 +38,6 @@ export default function Home() {
           {error ? <Text accessibilityRole="alert" style={styles.error}>{error}</Text> : null}
           <ActionButton label="Načrtuj izlet" onPress={planTrip} />
         </View>
-        {!process.env.EXPO_PUBLIC_API_URL?.trim() &&
-          <Text style={styles.muted}>Predstavitveni način · vzorčni podatki</Text>}
       </ScrollView>
     </SafeAreaView>
   );

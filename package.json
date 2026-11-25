@@ -6,8 +6,7 @@
   "scripts": {
     "start": "expo start",
     "web": "expo start --web",
-    "typecheck": "tsc --noEmit",
-    "test": "node --disable-warning=ExperimentalWarning --experimental-strip-types tests/trip.test.mjs"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "expo": "~58.0.26",
